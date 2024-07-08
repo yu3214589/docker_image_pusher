@@ -4,3 +4,11 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+portainer/portainer
+Xiaoyaliu/alist
+Emby amilys/embyserver
+xiaoya-emby-library
+xiaoya-emd
+xiaoya-glue
+xiaoya-cron
+xiaoyaproject/zentao_bk
